@@ -1,3 +1,3 @@
 # hello-world
 
-I made some edits
+I made some edits.
